@@ -2,8 +2,8 @@
 
 ## Jalankan node -v
 
-![gambar]()
+![image](https://hackmd.io/_uploads/HyY1aQlZ1x.png)
 
 ## Jalanan npm -v
 
-![gambar]()
+![image](https://hackmd.io/_uploads/HyXxTXl-ye.png)
